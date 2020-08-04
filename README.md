@@ -1,8 +1,8 @@
-##Next Level Week #2
+Next Level Week 2
 
-#Proffy
+Proffy
 
-#O que é o Next Level Week?
+O que é o Next Level Week?
 
 O NLW é um evento com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
 
